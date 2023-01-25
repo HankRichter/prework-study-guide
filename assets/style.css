@@ -7,7 +7,7 @@ header,
 footer {
     width: 100%;
     height: 120px;
-    background-color: #E833A6;
+    background-color: #b01018;
     color: white;
 }
 
@@ -24,6 +24,10 @@ img {
     margin-right: auto;
 }
 
+body{
+    background-color: #000;
+}
+
 ul {
     padding-left: 40px;
     font-size: 20px;
@@ -38,5 +42,6 @@ p {
     width: 80%;
     margin: 40px auto;
     border: 5px solid gray;
-    box-shadow: 5px 10px #5BB830
+    box-shadow: 3px 3px #d8edeb;
+    background-color: #FFF;
 }
